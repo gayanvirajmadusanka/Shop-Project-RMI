@@ -12,5 +12,5 @@ public interface CrudDao<T, ID> extends SuperDao {
 
     public T get(ID id) throws Exception;
 
-    public List<T> getAll(T t) throws Exception;
+    public List<T> getAll() throws Exception;
 }

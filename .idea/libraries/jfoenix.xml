@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="annotations-13.0">
+  <library name="jfoenix">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/client/lib/jfoenix/annotations-13.0.jar!/" />
       <root url="jar://$PROJECT_DIR$/client/lib/jfoenix/jfoenix-8.0.8.jar!/" />
